@@ -29,10 +29,11 @@ body {
   .excited {
     color: green;
   }
-  
+
   .row {
+    display: flex;
   }
-  
+
   .column {
-    margin: 10px;
+    margin: 15px;
   }
